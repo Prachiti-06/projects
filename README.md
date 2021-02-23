@@ -1,3 +1,3 @@
 # projects
 
-There are two sample Selenium Project, developed using Java and Python programming languages.
+There are two sample Selenium Projects, developed using Java and Python programming languages.
