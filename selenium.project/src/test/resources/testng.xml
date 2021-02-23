@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgRatioFormSuite">
+    <test name="TestNgTest">
+        <classes>
+            <class name="testng.testcase.TestSearch"/>
+        </classes>
+    </test>
+</suite>
